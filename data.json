@@ -1,0 +1,104 @@
+{
+  "keys": [
+    {
+      "id": 1,
+      "key": "DEMO-KEY-001",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    },
+    {
+      "id": 2,
+      "key": "DEMO-KEY-002",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    },
+    {
+      "id": 3,
+      "key": "DEMO-KEY-003",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    },
+    {
+      "id": 4,
+      "key": "DEMO-KEY-004",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    },
+    {
+      "id": 5,
+      "key": "DEMO-KEY-005",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    },
+    {
+      "id": 6,
+      "key": "DEMO-KEY-006",
+      "status": "ready",
+      "phone": "",
+      "code": "",
+      "createdAt": "2000-01-01T00:00:00.000Z",
+      "usedAt": ""
+    }
+  ],
+  "numbers": [
+    {
+      "id": 1,
+      "phone": "+000000000001",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    },
+    {
+      "id": 2,
+      "phone": "+000000000002",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    },
+    {
+      "id": 3,
+      "phone": "+000000000003",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    },
+    {
+      "id": 4,
+      "phone": "+000000000004",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    },
+    {
+      "id": 5,
+      "phone": "+000000000005",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    },
+    {
+      "id": 6,
+      "phone": "+000000000006",
+      "status": "ready",
+      "keyId": null,
+      "note": "虚构演示号码，不能接收真实短信"
+    }
+  ],
+  "problems": [],
+  "sessions": {}
+}
